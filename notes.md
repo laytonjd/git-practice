@@ -11,6 +11,7 @@ Once every new project in the project folder
 
 Every time I want to what step I am on 
 -------------------------------------
+
     git status 
 
 Three step commiting process 
@@ -21,3 +22,8 @@ Three step commiting process
     git add file_that_changed.rb
 * Commit changes
     git commit -m "My commit message"
+
+Show history
+------------
+
+    git log 
