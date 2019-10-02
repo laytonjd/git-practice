@@ -1,3 +1,5 @@
 puts "Coding is fun!!!!!!"
 print "david is obsessed"
 print "noooo"
+print "josh ur stupid. you get b in ap lang"
+print "david is a tryhard"
