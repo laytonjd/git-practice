@@ -26,4 +26,18 @@ Three step commiting process
 Show history
 ------------
 
-    git log 
+    git log
+
+Giving code to GitBash
+
+    git push
+
+Switching computers
+-------------------
+
+    git clone (link from repository)
+
+Once you come back to old computer
+----------------------------------
+
+    git pull
