@@ -29,6 +29,7 @@ Show history
     git log
 
 Giving code to GitBash
+----------------------
 
     git push
 
